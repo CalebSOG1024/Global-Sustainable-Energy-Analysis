@@ -1,6 +1,17 @@
 # Global-Sustainable-Energy-Analysis: Building Interactive PowerBI Dashboard that Assesses the Impact of the Emission of CO2 and Other Energy in Developing Countries from 2000 to 2020.
+## Table of Contents
+- [Description](#description)
+- [Business Introdution](#businessintroduction)
+- [Business Problem](#businessproblem)
+- [Aim Of This Project](#aimofthisproject)
+- [Processes](#processes)
+- [Insights](#insights)
+- [Recommendations](#recommendations)
 ### Description
 This project was initiated to explore the sustainability and equity of energy systems across developing nations by analyzing global data on CO₂ emissions, fuel combustion, electricity access, and economic factors (such as cash flow and affordability). The analysis was focused on countries including India, Guinea, and other emerging economies where energy poverty, environmental impact, and access inequality remain critical challenges.
+
+![Global_Energy_Analysis_Dashboard](https://github.com/user-attachments/assets/eaf8b308-7e0f-425d-831b-2d12bc02b0ff)
+
 ### Business Introduction
 Sustainable Insight Analytics (SIA) is a purpose-driven data analytics startup committed to solving global sustainability challenges through the power of data. Our mission is to empower governments, NGOs, and development agencies with actionable insights that drive equitable energy access, environmental sustainability, and socio-economic resilience in underserved regions.
 At SIA, we specialize in transforming raw, complex datasets into strategic intelligence. By focusing on energy equity, climate action, and resource distribution, we bridge the gap between data science and development impact. Our work leverages data to inform smarter decisions around energy policy, carbon emissions, and financial inclusion in developing economies.
@@ -63,3 +74,41 @@ Step 6: Insights and Storytelling
  - Interpreted the visuals to derive key findings and recommendations.
  - Annotated visuals or used "Text boxes" to summarize insights.
  - Highlighted: Regions with highest emissions and lowest electricity access, Countries with the widest rural-urban energy gap, Opportunities for renewable expansion and climate finance.
+### Insights
+1 Access to Electricity
+ - 14957 people had access to electricity in 2020, and this 
+accounted for the highest number of people that benefited 
+from the availability of electricity in all the developing 
+countries; while 12587 in 2000 accounted for the lowest.
+  
+2 Financial Flow to Developing countries
+ - India had the highest financial flow from 2000 to 2020 which 
+accounted for $14b; while French Guinea had less than 
+$80,000.
+ - India, Pakistan, Libya, Lithuania, Luxembourg, Malta, 
+Nigeria, Ethiopia, Turkey, and Mauritius made the top 10 
+countries by financial flow.
+
+3 Top 5 Countries by GDP
+ - Luxembourg had the highest GDP per capita (2053887) from 
+2000 to 2020; while French Guinea had less than 30000.
+ - Luxembourg, Bermuda, Norway, Switzerland, and Qatar 
+made the top 5 countries by GDP.
+
+4 Top 5 Countries by CO2 Emissions
+ - China had the highest value of CO2 emission (153M) from 
+2000 to 2020; while French Guinea had less than 200000.
+ - China, the United States, India, Japan, and Germany made 
+the top 5 countries by CO2 emission.
+### Recommendations
+ - Consistently and evenly distribute electricity over the 
+countries for increase in growth and development.
+ - Channel finances to all countries accordingly, most 
+appropriately, focusing on undeveloped countries.
+ - Increase GDP by investing in infrastructure, fostering 
+innovation, promoting trade, investing in human capital and 
+encouraging business growth.
+ - Shift from fossil fuels to renewable energy sources like solar 
+and wind, improve energy efficiency in buildings, 
+transportation and industry and implement carbon pricing 
+mechanisms to incentivize emission reductions.
