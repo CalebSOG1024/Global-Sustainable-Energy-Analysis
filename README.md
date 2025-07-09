@@ -23,3 +23,43 @@ The objectives of this project are:
 - To analyze the relationship between energy affordability and household cash flow.
 - To evaluate the adoption of renewable energy and its correlation with emissions and energy equity.
 - To identify policy gaps and opportunities for sustainable energy interventions.
+### Processes
+Step 1: Data Collection and Import
+ Tool Used: Second party data gathered on CO₂ emissions, electricity access, renewable vs. non-renewable sources, and cash flow metrics through web scraping.
+ - Imported the dataset.
+ - Inspected file structure and data types before proceeding.
+
+Step 2: Data Cleaning and Transformation
+ Tool Used: Power Query Editor
+ - Removed blank rows and columns.
+ - Renamed columns for clarity
+ - Changed data types (e.g., string to numeric or date)
+ - Replaced errors or missing values with null or averages.
+ - Filtered out irrelevant columns or duplicate entries.
+ - Created new columns
+
+Step 3: Data Modeling
+ Tool Used: PowerBI Data Model
+ - Built a logical data model to support analysis
+ - Established relationships between tables
+ - Created calculated columns and measures using DAX (Data Analysis Expressions)
+
+Step 4: Data Visualization
+ Tool Used: Visuals Features
+ - Developed visuals to uncover insights and trends
+ - Used Bar and Column Charts to show: CO₂ emissions by country, Electricity availability comparison
+ - Used Line Charts for trend analysis over time.
+ - Added Pie or Donut Charts for energy source breakdown (renewable vs. non-renewable).
+ - Used Cards and KPIs for high-level metrics
+
+Step 5: Dashboard Creation
+ Tool Used: PowerBI Data Visualization Features
+ - Combined all visuals into an interactive, clean, and focused dashboard
+ - Added titles, tooltips, and legends for clarity.
+ - Ensured the dashboard was mobile-friendly and logically navigable.
+
+Step 6: Insights and Storytelling
+ Tool Used: Power Point and Word
+ - Interpreted the visuals to derive key findings and recommendations.
+ - Annotated visuals or used "Text boxes" to summarize insights.
+ - Highlighted: Regions with highest emissions and lowest electricity access, Countries with the widest rural-urban energy gap, Opportunities for renewable expansion and climate finance.
